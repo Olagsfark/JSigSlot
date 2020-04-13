@@ -1,7 +1,7 @@
 /* 
     Simon Design Suite version  1.0 
  */
-package ephrahim;
+package ephraim;
 
 /**
  * Interface to box up a unit of slot meant to be executed in par with a signal

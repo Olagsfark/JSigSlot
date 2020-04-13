@@ -3,7 +3,7 @@
     I would really love that you atleast include the comments in you code base, 
     even if you may remove my name.
  */
-package ephrahim;
+package ephraim;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,6 +1,6 @@
-/build
-/dist
-.git
-/nbproject
-/out
-/.idea
+gradle/
+.idea/
+.gradle/
+out/
+build/
+output/
